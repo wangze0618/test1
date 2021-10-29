@@ -1,0 +1,6 @@
+# 忽略index.css
+index.css
+# 忽略test/文件夹
+test/
+# 忽略readme.txt
+readme.txt
